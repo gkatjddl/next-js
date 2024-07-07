@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 
-// const url = ""
+const url = "mongodb+srv://gkatjddl:gkatjddl@cluster0.ruqraup.mongodb.net/"
 
 const options = {};
 let connectDB;
